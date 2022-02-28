@@ -13,7 +13,7 @@ There are 4 possible symbols:
 * orange (30 credits reward)
 * watermelon (40 credits reward)
 
-If the player keeps winning, they can play forever, but the house has something to say about that...
+If the player keeps winning, they can play forever, but the house has something to say about that.
 There is  CASH OUT button on the screen, but there's a twist there as well.
 
 ### Tasks
